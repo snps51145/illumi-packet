@@ -3,7 +3,7 @@ Test
 
 | OS | |
 | Hardware | Rasberry Pi 4B |
-| LED Tape| |
+| LED Tape | |
 
 
 ### credit
