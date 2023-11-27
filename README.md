@@ -1,7 +1,8 @@
 Test
 
 
-| OS | |
+| OS | test |
+|---  |--- |
 | Hardware | Rasberry Pi 4B |
 | LED Tape | |
 
